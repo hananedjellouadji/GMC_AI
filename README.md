@@ -1,2 +1,2 @@
-# DataVis
-GMC Data visualization project
+# AI GMC
+GMC AI mini projects
